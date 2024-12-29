@@ -1,4 +1,5 @@
--->
+![giphy (1)](https://github.com/user-attachments/assets/705ca5b5-5b63-40ce-81d4-144da9739658)
+
 <h1 align="center">Hi 👋, I'm Rabulala Sobayi</h1>
 <h3 align="center">DATA ANALYST</h3>
 
@@ -8,7 +9,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👯 I’m looking to collaborate on **with small or large-scale organizations to make sense of their data.**
+- 👯 I’m looking to collaborate on **with small or large-scale organizations to make sense of their data.** 
 
 - 🤝 I’m looking for help with **Entry-Level or Junior Data Analyst roles.**
 
@@ -23,6 +24,7 @@
 <a href="https://linkedin.com/in/rabulala sobayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabulala sobayi" height="30" width="40" /></a>
 </p>
 
+![giphy (5)](https://github.com/user-attachments/assets/cbbb7e8b-1bcd-4375-9a3b-94abab14d58f)
 
 
 
