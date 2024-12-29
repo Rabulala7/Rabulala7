@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👯 I’m looking to collaborate on **with small or large-scale organizations to make sense of their data.** 
+- 👯 I’m looking to collaborate **with small or large-scale organizations to make sense of their data.** 
 
 - 🤝 I’m looking for help with **Entry-Level or Junior Data Analyst roles.**
 
