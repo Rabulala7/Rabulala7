@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rabolalasobayi@gmail..com, https://www.linkedin.com/in/rabulalasobayi/**
 
-- ⚡ Fun fact **Fluent in three languages, English, Sarcasm, and Code.**
+- ⚡ Fun fact: **Fluent in three languages, English, Sarcasm, and Code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
